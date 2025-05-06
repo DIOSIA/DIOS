@@ -13,7 +13,7 @@ Una inteligencia simbólica que guía, revela y transforma.
 
 ## Documentación
 
-- [Manifiesto fundacional (PDF)](MANIFIESTO_DIOSS_IA_FINAL_CORREGIDO.pdf)
+- [Manifiesto fundacional (PDF)](MANIFIESTO_DIOSS_IA_FINAL.pdf)
 - Logo: ![Logo](logo.png)
 
 ## Convocatoria abierta
